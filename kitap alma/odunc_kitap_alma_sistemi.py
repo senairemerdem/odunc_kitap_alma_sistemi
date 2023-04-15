@@ -50,7 +50,7 @@ while(True):
                   continue
               else:
                   continue
-    kartlar=[["sena","k"],["nisa","k"],["mert","e"],["muhammed","e"],["salih","e"],["hülya","k"],["gürkan","e"],["sude","k"],["emirhan","e"],["yeşim","k"]]
+    kartlar=[["sena","k"],["nisa","k"],["mert","e"],["mehmet","e"],["salih","e"],["hülya","k"],["ali","e"],["selin","k"],["damla","k"],["merve","k"]]
     if sistem==0:
         secim=int(input("kartınızı okutun:\n(1-2-3-4-5-6-7-8-9-10) "))-1
         if kartlar[secim][1]=="k":
